@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="tests.CuartaParte-Automation"
+    errors="0" failures="0" hostname="" id="" package="CuartaParte-Automation" skipped="0"
+    tests="3" time="79.27" timestamp="">
+  
+    <testcase name="Validate that the &#34;Get in touch&#34; form opens" classname="tests.CuartaParte-Automation" time="6.677" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Validate that required fields are displayed in red when the empty form is submitted" classname="tests.CuartaParte-Automation" time="14.20" assertions="8">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Complete the required fields and validate that once they are filled, they are no longer marked in red" classname="tests.CuartaParte-Automation" time="18.75" assertions="12">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
